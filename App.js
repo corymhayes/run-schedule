@@ -7,7 +7,7 @@ import styles from './Style.js';
 
 /*
   TODO:
-  WORK ON GETTING SWIPER PAGINATION TO DEFAULT TO THE CURRENT WEEK BASED ON THE DAY
+  1. WORK ON GETTING SWIPER PAGINATION TO DEFAULT TO THE CURRENT WEEK BASED ON THE DAY
 */
 
 export default class App extends React.Component {
