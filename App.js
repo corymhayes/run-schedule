@@ -5,7 +5,10 @@ import Swiper from 'react-native-swiper';
 import styles from './Style.js';
 
 
-/* WORK ON GETTING SWIPER PAGINATION TO DEFAULT TO THE CURRENT WEEK BASED ON THE DAY */
+/*
+  TODO:
+  WORK ON GETTING SWIPER PAGINATION TO DEFAULT TO THE CURRENT WEEK BASED ON THE DAY
+*/
 
 export default class App extends React.Component {
   render() {
